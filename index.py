@@ -1,2 +1,2 @@
 print('Hola mundo')
-print('Saludos por parte de C1')
+print('Saludos a todos por parte de C1')
