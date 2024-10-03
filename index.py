@@ -1,2 +1,1 @@
-print('Hola mundo')
-print('Saludos a todos por parte de C1')
+prin('Solo quiero que esté mi mensaje :) ')
