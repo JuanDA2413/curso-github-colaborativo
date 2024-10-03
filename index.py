@@ -1,1 +1,1 @@
-prin('Solo quiero que esté mi mensaje :) ')
+print('Esta bien, diré que este proyecto es de todos :,) ')
