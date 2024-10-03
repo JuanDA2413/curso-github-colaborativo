@@ -1,2 +1,1 @@
-print('Hola mundo')
-print('Saludos a todos por parte de C1')
+print('Esta bien, diré que este proyecto es de todos :,) ')
